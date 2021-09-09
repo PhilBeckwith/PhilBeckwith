@@ -16,6 +16,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PhilBeckwith/PhilBeckwith)
 ![pv](https://pageview.vercel.app/?github_user=PhilBeckwith)
 
+## TTRPG Side-Gig
+###Twitter Feed for P.B. Publishing
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
+
+
 <!--
 **PhilBeckwith/PhilBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

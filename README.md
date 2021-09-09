@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ### Hello World (also Josh...)
-🔭 I’m currently working on Arkahna's training offering of Power Virtual Agents in a Day course material.\n
+🔭 I’m currently working on Arkahna's training offering of Power Virtual Agents in a Day course material.
+
 🌱 I’m currently learning Github funsies.
+
 💬 Ask me about my side-gig TTRPG work.
+
 ⚡ Fun fact: I nearly died when a giant tanker missed the navy ship I was on by a matter of feet when it was cold-drifting through a port bay during a hurricane in Tokyo bay.
 
 <!--

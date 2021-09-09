@@ -21,6 +21,11 @@
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pbpublishing1)](https://github.com/gazf/github-readme-twitter)
 
+import getTwitterFollowers from 'get-twitter-followers';
+
+getTwitterFollowers(tokens, 'pbpublishing1').then(followers => {
+  console.log(followers); // "User Objects" array https://dev.twitter.com/overview/api/users
+});
 
 
 <My TTRPG Book Covers>

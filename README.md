@@ -9,6 +9,10 @@
 
 ⚡ Fun fact: I nearly died when a giant tanker missed the navy ship I was on by a matter of feet when it was cold-drifting through a port bay during a hurricane in Tokyo bay.
 
+[![Phil's Github Stats](https://github-readme-stats.vercel.app/api?username=PhilBeckwith)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **PhilBeckwith/PhilBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

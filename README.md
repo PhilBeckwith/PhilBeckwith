@@ -18,7 +18,8 @@
 
 ## TTRPG Side-Gig
 ###Twitter Feed for P.B. Publishing
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pbpublishing1)](https://github.com/gazf/github-readme-twitter)
 
 
 

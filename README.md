@@ -22,7 +22,7 @@
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pbpublishing1)](https://github.com/gazf/github-readme-twitter)
 
 <My TTRPG Book Covers>
-  <summary>My TTRPG Book Covers</summary><P.B. Publishing Books>
+  <summary>My TTRPG Book Covers</summary><details>
   <img src="https://www.dmsguild.com/images/8957/206076.jpg" name="The Haunt">
   <img src="https://www.dmsguild.com/images/8957/225640.jpg" name="Adventure Anthology 1">
   <img src="https://www.drivethrurpg.com/images/12725/302843.jpg" name="Wranglers of Westhallow">

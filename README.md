@@ -9,6 +9,9 @@
 
 ⚡ Fun fact: I nearly died when a giant tanker missed the navy ship I was on by a matter of feet when it was cold-drifting through a port bay during a hurricane in Tokyo bay.
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 [![Phil's Github Stats](https://github-readme-stats.vercel.app/api?username=PhilBeckwith)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -12,6 +12,9 @@
 [![Phil's Github Stats](https://github-readme-stats.vercel.app/api?username=PhilBeckwith)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/PhilBeckwith/PhilBeckwith)
+![pv](https://pageview.vercel.app/?github_user=PhilBeckwith)
 
 <!--
 **PhilBeckwith/PhilBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
